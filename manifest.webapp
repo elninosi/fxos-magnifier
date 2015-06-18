@@ -1,0 +1,18 @@
+{
+  "name": "Magnifier",
+  "description": "Tap three times and hold to magnify the screen.",
+  "developer": {
+    "name": "David Flanagan"
+  },
+  "role": "addon",
+  "type": "certified",
+  "customizations": [{
+    "filter": "system.gaiamobile.org",
+    "css": [],
+    "scripts": ["magnifier.js"]
+  }],
+  "icons": {
+    "60": "/style/icons/60.png"
+  },
+  "acl": true
+}
