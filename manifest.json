@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "name": "Magnifier",
+  "description": "Tap three times and hold to magnify the screen.",
+  "version": "1.0",
+  "author": "David Flanagan & Nino Vranešič",
+  "content_scripts": [{
+    "matches": ["app://system.gaiamobile.org/index.html"],
+    "css": [],
+    "js": ["magnifier.js"]
+  }],
+  "icons": {
+    "60": "/style/icons/60.png"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Magnifier",
+  "description": "Tap three times and hold to magnify the screen.",
+  "developer": {
+    "name": "David Flanagan & Nino Vranešič"
+  },
+  "package_path": "extension.zip",
+  "icons": {
+    "60": "/style/icons/60.png"
+  }
+}
