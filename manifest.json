@@ -10,6 +10,7 @@
     "js": ["magnifier.js"]
   }],
   "icons": {
-    "60": "/style/icons/60.png"
+    "60": "/style/icons/60.png",
+	"128": "/style/icons/128.png"
   }
 }
